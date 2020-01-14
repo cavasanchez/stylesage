@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Félix",
+        "image": "https://i.pinimg.com/originals/6f/da/24/6fda24807024450fa3e84f3c6a2d5e63.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 2,
+        "name": "Kitty",
+        "image": "https://e.rpp-noticias.io/normal/2019/03/06/053205_761511.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 3,
+        "name": "Silvestre",
+        "image": "https://www.ecured.cu/images/thumb/4/40/3144137_640px_gato_silvestre.jpg/260px-3144137_640px_gato_silvestre.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 4,
+        "name": "Garfield",
+        "image": "https://catzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2016/06/famous-cat-names-garfield-300x179.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 5,
+        "name": "Tom",
+        "image": "https://catzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2016/06/tom-and-jerry.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 6,
+        "name": "Pica",
+        "image": "https://catzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2016/06/famous-cat-names-scratchy-300x206.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 7,
+        "name": "Fígaro",
+        "image": "https://catzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2016/06/famous-cat-names-figaro-300x233.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 8,
+        "name": "Botas",
+        "image": "https://catzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2016/06/famous-cat-names-puss-in-boots-300x291.jpg",
+        "clicks": 0
+    },
+    {
+        "id": 9,
+        "name": "Salem",
+        "image": "https://catzone-tcwebsites.netdna-ssl.com/wp-content/uploads/2016/06/famous-cat-names-salem-300x169.jpg",
+        "clicks": 0
+    }
+]

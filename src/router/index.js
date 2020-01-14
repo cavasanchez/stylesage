@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import CatClickerView from '../views/CatClickerView'
 
 Vue.use(VueRouter)
 
@@ -9,6 +10,12 @@ const routes = [
     path: '/',
     name: 'home',
     component: Home
+  },
+  {
+    path: '/cat-clicker',
+    name: 'catClicker',
+    component: CatClickerView,
+
   },
   {
     path: '/about',
