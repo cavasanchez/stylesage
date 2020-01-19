@@ -141,6 +141,7 @@ export default {
     WordCloud
   },
   created() {
+    //Simulate an API request and get coupon data
     this.couponsList = MOCK_COUPONS.coupons;
     this.getCouponsType();
     this.getPercentOffDetails();
