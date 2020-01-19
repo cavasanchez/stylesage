@@ -75,6 +75,7 @@ export default {
         .value();
     },
 
+    //Get percent-off coupons and group by value
     getPercentOffDetails() {
       const couponsPercentOff = this.couponsList.filter(
         el => el.promotion_type === "percent-off"
@@ -85,6 +86,7 @@ export default {
         .value();
     },
 
+    //Get dollar-off coupons and group by value
     getDollarOffDetails() {
       const couponsDollarOff = this.couponsList.filter(
         el => el.promotion_type === "dollar-off"
