@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import CatClickerView from '../views/CatClickerView'
 import AnimatedGifsView from '../views/AnimatedGifsView'
+import CouponsView from '../views/CouponsView'
 
 
 
@@ -24,7 +25,11 @@ const routes = [
     path: '/animated-gifs',
     name: 'animatedGifsView',
     component: AnimatedGifsView,
-
+  },
+  {
+    path: '/coupons',
+    name: 'coupons',
+    component: CouponsView,
   }
 ]
 

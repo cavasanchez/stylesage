@@ -18,6 +18,6 @@ export default {
 <style lang="scss" scoped>
 ul > li {
   display: inline-block;
-  margin: 4px;
+  margin: 8px;
 }
 </style>

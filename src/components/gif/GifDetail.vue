@@ -1,6 +1,6 @@
 <template>
-  <v-card class="mx-auto" height="325px">
-    <v-img height="200px" :src="gifurl" :alt="title"></v-img>
+  <v-card class="mx-auto" height="375px">
+    <v-img height="250px" :src="gifurl" :alt="title"></v-img>
 
     <v-card-text class="text--primary">
       <div class="card-title">{{title}}</div>

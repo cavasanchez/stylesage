@@ -2,6 +2,7 @@
   <div>
     <CatNameList :cats="catList" @selectCat="selectCat" />
     <CatDetail v-if="catSelected" :catDetails="catSelected" @incrementClick="incrementClick" />
+    <p v-else>Click on a cat name!</p>
   </div>
 </template>
 <script>
